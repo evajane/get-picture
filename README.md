@@ -9,7 +9,7 @@ How to run program:
 python index.py
 
 2. go to web browser, enter:
-http://127.0.0.1:5000/getpic
+http://127.0.0.1:5000
 
 3. In the textbox, enter the original url from the pic site. Click "get picture" to see the image.
 
